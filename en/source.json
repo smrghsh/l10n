@@ -1,6 +1,10 @@
 {
-    "noise": [
-        {"scale": "Number: scale of the noise"},
-        {"offset": "Number: offset speed of the noise"}
+  "noise": {
+    "syntax": "noise(scale, offset)",
+    "description": "Generates a noise texture",
+    "inputs": [
+      { "scale": "scale of the noise" },
+      { "offset": "offset speed of the noise" }
     ]
+  }
 }
