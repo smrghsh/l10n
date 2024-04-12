@@ -1,0 +1,6 @@
+{
+    "noise": {
+        "scale": "Number: scale of the noise",
+        "offset": "Number: offset speed of the noise" 
+    }
+}
